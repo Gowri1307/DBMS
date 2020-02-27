@@ -567,16 +567,3 @@ GROUP BY S2.lvl, S2.age));
         19 Sr
         20 Jr
         21 Sr
-
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
